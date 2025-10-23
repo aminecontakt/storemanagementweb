@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zMGO+K4o7fw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Administrateur\\Desktop\\One Drive\\OneDrive - OFPPT\\VS code\\StoreManagementWeb\\StoreManagementWeb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Administrateur\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\Administrateur\\.nuget\\packages\\npgsql\\9.0.4\\npgsql.9.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
