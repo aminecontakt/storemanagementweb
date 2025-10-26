@@ -9,11 +9,9 @@ namespace StoreManagementWeb.Controllers
     {
         private readonly DatabaseHelper _dbHelper;
 
-        public ItemsController()
+        public ItemsController(DatabaseHelper dbHelper)
         {
-            // Connection string for local PostgreSQL database
-            string connectionString = "Host=localhost;Username=postgres;Password=Admin@123;Database=storemanagement";
-            _dbHelper = new DatabaseHelper(connectionString);
+            _dbHelper = dbHelper;
             _dbHelper.CreateTableIfNotExists();
         }
 
