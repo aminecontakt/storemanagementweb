@@ -1,4 +1,8 @@
 PS :    cd StoreManagementWeb && dotnet run
 
+
+
+local authentification 
+
 User : pgadmin
 Password : Admin@123
